@@ -83,11 +83,9 @@ user_groups:
 - Teachers
 ---
 
-I am a 4th-year PhD candidate in the [Statistics program](https://lsa.umich.edu/stats) at the University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in [Statistics & Data Science](https://www.unr.edu/math) at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/).   
 
-I am working under the supervision of [Professor Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), currently focusing on using flexible, non-parametric methods to study the full conditional distribution of a response variable, especially in complex and high-dimensional data scenarios.
+I am a 4th-year PhD candidate in the [Statistics program](https://cas.okstate.edu/statistics/) at Oklahoma State University in Stillwater, Oklahoma. I hail from Wa, a vibrant town in the Upper West Region of Ghana known for its rich culture and warm hospitality. I earned my MS in [Mathematics](https://academics.ysu.edu/mathematics-and-statistics) at Youngstown State University and my BS in Actuarial Science from Kwame Nkrumah University of Science and Technology. I work under the guidance of [Professor Pratyaydipta Rudra](https://experts.okstate.edu/prudra), with my research centered on evaluating the utility of normality tests in statistical practice—work that bridges theoretical rigor with practical applications in modern data analysis.
 
-When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
+Outside of academics, I’m passionate about social impact and co-founded Konbar, a social enterprise tackling malnutrition and food insecurity through sustainable dry-season irrigation farming in rural Africa. I also enjoy teaching, tutoring statistics, and contributing as a science fair judge to inspire the next generation of thinkers. When I’m not immersed in data or community work, you’ll likely find me listening to music, enjoying meaningful conversations, or cheering on Manchester United.
 
-*Go Blue!*
-
+Go Pokes!   
