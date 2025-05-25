@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benjamin Osafo Agyare
+title: Benedict Kuunaa-eguo Kongyir
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: PhD Candidate in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan
+- name: Oklahoma State University
   url: https://lsa.umich.edu/stats
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,11 +32,11 @@ interests:
 education:
   courses:
   - course: PhD in Statistics
-    institution: University of Michigan
+    institution: Oklahoma State University
     year: 2026 (Expected)
     
-  - course: MS in Statistics & Data Science
-    institution: University of Nevada, Reno
+  - course: MS in Mathematics
+    institution: Youngstown State University, Ohio
     year: 2021
     
   - course: BS in Actuarial Science
