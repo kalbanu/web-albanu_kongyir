@@ -11,7 +11,7 @@ role: PhD Candidate in Statistics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Oklahoma State University
-  url: https://lsa.umich.edu/stats
+  url: https://go.okstate.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: " "
@@ -51,13 +51,13 @@ social:
 #   link: 
 - icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai #fas
-  link: [https://scholar.google.com/citations?user=ZCAmPMYAAAAJ&hl](https://scholar.google.com/citations?hl=en&user=QNfekFwAAAAJ)=en
+  link: https://scholar.google.com/citations?user=QNfekFwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/bosafoagyare
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/benedictkongyir/
+  link: https://www.linkedin.com/in/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
