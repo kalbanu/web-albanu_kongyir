@@ -51,13 +51,13 @@ social:
 #   link: 
 - icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai #fas
-  link: https://scholar.google.com/citations?user=ZCAmPMYAAAAJ&hl=en
+  link: [https://scholar.google.com/citations?user=ZCAmPMYAAAAJ&hl](https://scholar.google.com/citations?hl=en&user=QNfekFwAAAAJ)=en
 - icon: github
   icon_pack: fab
   link: https://github.com/bosafoagyare
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/benjamin-osafo-agyare/
+  link: https://www.linkedin.com/in/benedictkongyir/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
