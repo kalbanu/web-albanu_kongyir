@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor of Record for Pre-Calculus II
-    company: University of Nevada, Reno
-    company_url: https://www.unr.edu/math
+  - title: Statistics Instructor
+    company: Oklahoma State University 
+    company_url: https://cas.okstate.edu/statistics/
     company_logo: unr
-    location: Nevada
-    date_start: '2021-07-12'
-    date_end: '2021-08-12'
+    location: Oklahoma
+    date_start: '2022-012-01'
+    date_end: ''
     description: |2-
         
         * Designed the course syllabus, selected instructional materials, and structured the curriculum to align with departmental learning objectives.
