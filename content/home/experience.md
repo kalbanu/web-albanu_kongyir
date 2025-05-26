@@ -27,7 +27,7 @@ experience:
     company_url: https://cas.okstate.edu/statistics/
     company_logo: unr
     location: Oklahoma
-    date_start: '2022-012-01'
+    date_start: '2022-12-01'
     date_end: ''
     description: |2-
         
