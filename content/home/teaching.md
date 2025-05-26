@@ -24,13 +24,19 @@ design:
   columns: "2" 
 ---
 
-### Graduate Student Instructor, Oklahoma State University
-- STATS 2013 - Elementary Statistics  (~ 100 students) &nbsp; || &nbsp; Spring 2023 - present, 
-- STATS 3013 - Intermediate Statistical Analysis (Business Statistics and Analytics in Practice) &nbsp; || &nbsp; Fall 2023
+### Instructor of Record, Oklahoma State University
+- STATS 2013 - Elementary Statistics 
+   * Spring 2025 (~ 100 students),
+   * Fall 2024 (~ 86 students),
+   * Spring 2023 (~ 75 students),
+- STATS 3013 - Intermediate Statistical Analysis (Business Statistics and Analytics in Practice)
+   * Fall 2023
 
 ### Graduate Instructor, Youngstown State University
-- MATH 1500 - Mathematics Preparation for Algebra Placement (∼30 students) &nbsp; || &nbsp; Fall 2020
+- MATH 1500 - Mathematics Preparation for Algebra Placement
+   * Fall 2020 (∼30 students)
 
 ### Mathematics Teacher, St. Francis Xavier Minor Seminary
-- High School Mathematics and Statistics (∼60 students) &nbsp; || &nbsp; Fall 2017 - Summer 2019
+- High School Mathematics and Statistics
+   * Fall 2017 - Summer 2019 (∼100 students)
 
