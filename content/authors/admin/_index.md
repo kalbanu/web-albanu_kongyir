@@ -18,15 +18,10 @@ bio: " "
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning
-- Distributional Learning (Quantile and Expectile Regression)
-- Non and Semi-Parametric Models
-- High-Dimensional Statistics
-- Computational Statistics and Optimization
-- Causal Inference
-- Longitudinal/Panel Data Analysis
-- Survival Analysis
-- Latent Variable Modeling/SEM
+- Statistical Modeling and Inference
+- Predictive Analytics and Machine Learning
+- Applied Statistics in Public Policy and Health
+- Statistical Hypothesis Testing
 
 # Education to show in About widget
 education:
