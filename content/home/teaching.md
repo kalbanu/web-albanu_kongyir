@@ -32,7 +32,7 @@ design:
 - STATS 3013 - Intermediate Statistical Analysis (Business Statistics and Analytics in Practice)
    * Fall 2023
 
-### Graduate Instructor, Youngstown State University
+### Instructor of Record, Youngstown State University
 - MATH 1500 - Mathematics Preparation for Algebra Placement
    * Fall 2020 (∼30 students)
 
