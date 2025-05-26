@@ -32,5 +32,5 @@ design:
 - MATH 1500 - Mathematics Preparation for Algebra Placement (∼30 students) &nbsp; || &nbsp; Fall 2020
 
 ### Mathematics Teacher, St. Francis Xavier Minor Seminary
-- STAT 224 - High School Mathematics and Statistics (∼60 students) &nbsp; || &nbsp; Fall 2017 - Summer 2019
+- High School Mathematics and Statistics (∼60 students) &nbsp; || &nbsp; Fall 2017 - Summer 2019
 
