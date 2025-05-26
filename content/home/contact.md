@@ -29,5 +29,5 @@ design:
   columns: '2'
 ---
 
-<div style="text-align: left;"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd830&w=315&t=m&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94&co=2d78ad&cmo=f71e1e&cmn=f4940a&ct=ffffff'></script></div><br/>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wL_ivsmVVMt7CEc4pZwoXFUxpUSp2OEBWmmfI4O8u94"></script>
 
