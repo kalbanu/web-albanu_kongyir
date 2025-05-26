@@ -30,7 +30,7 @@ design:
    * Fall 2024 (~ 86 students),
    * Spring 2023 (~ 75 students),
 - STATS 3013 - Intermediate Statistical Analysis (Business Statistics and Analytics in Practice)
-   * Fall 2023
+   * Fall 2023 (~30 students)
 
 ### Instructor of Record, Youngstown State University
 - MATH 1500 - Mathematics Preparation for Algebra Placement
