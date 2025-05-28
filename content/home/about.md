@@ -9,7 +9,7 @@ active: true
 # Design of section
 design:
   background:
-   image: bg.jpg
+   image: mtn.jpg
    image_darken: 0.15
    image_parallax: true
    image_position: center
