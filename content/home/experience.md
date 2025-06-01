@@ -34,6 +34,18 @@ experience:
         * Designed the course syllabus, selected instructional materials, and structured the curriculum to align with departmental learning objectives.
         * Delivered lectures and facilitated in-class problem-solving sessions to promote conceptual understanding and mathematical reasoning.
         * Developed, administered, and graded assignments, quizzes, and exams; provided timely and constructive feedback to support student progress.
+  - title: Actuarial Intern
+    company: Milliman
+    Practice: Life Technology Solutions(LTS)
+    company_url: https://us.milliman.com/en
+    company_logo: cas
+    location: Chicago
+    date_start: '2024-06-20'
+    date_end: '2024-08-15'
+    description: |2-
+        * Conducted detailed quantitative analysis to assess the impact of using varying spot rates on financial projections.
+        * Created a tool for scenario generation for model pre-production. My tool allows for rapid and flexible generation of diverse scenarios, which improves the robustness of the model for accurate and           better decision-making.
+        * Conducted a Kolmogorov-Smirnov test to test if random numbers from a scenario generation are uniformly distributed. This ensures the validity and reliability of the model projections.
 
   - title: Summer Actuarial Intern
     company: CAS Student Central
