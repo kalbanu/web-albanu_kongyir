@@ -35,8 +35,7 @@ experience:
         * Delivered lectures and facilitated in-class problem-solving sessions to promote conceptual understanding and mathematical reasoning.
         * Developed, administered, and graded assignments, quizzes, and exams; provided timely and constructive feedback to support student progress.
   - title: Actuarial Intern
-    company: Milliman
-    Practice: Life Technology Solutions(LTS)
+    company: Milliman Life Technology Solutions(LTS)
     company_url: https://us.milliman.com/en
     company_logo: cas
     location: Chicago
@@ -46,6 +45,32 @@ experience:
         * Conducted detailed quantitative analysis to assess the impact of using varying spot rates on financial projections.
         * Created a tool for scenario generation for model pre-production. My tool allows for rapid and flexible generation of diverse scenarios, which improves the robustness of the model for accurate and           better decision-making.
         * Conducted a Kolmogorov-Smirnov test to test if random numbers from a scenario generation are uniformly distributed. This ensures the validity and reliability of the model projections.
+
+- title: Actuarial Intern
+    company: Milliman Life Technology Solutions(LTS)
+    company_url: https://us.milliman.com/en
+    company_logo: cas
+    location: Chicago
+    date_start: '2023-06-20'
+    date_end: '2023-08-15'
+    description: |2-
+        * Developed an interactive dashboard of yield curves using Microsoft Power BI as a basis for a yield curve scenario generation process.
+        * Compiled different yield rates from various sources using Microsoft Excel VBA to create a report on the performance of the US stock market.
+        * Calculated shocks from the zero coupon rates using Python, leading to the development of the yield curve scenario generation model for the Bermuda Market Authority.
+        * Conducted in-depth analysis into the liquidity and illiquidity of three different market structures, revealing interesting but important information about the performance of the various markets.
+
+- title: Actuarial Intern
+    company: Milliman Milliman Financial Risk Management(FRM)
+    company_url: https://us.milliman.com/en
+    company_logo: cas
+    location: Chicago
+    date_start: '2022-06-20'
+    date_end: '2022-08-15'
+    description: |2-
+        * Streamlined and automated attribution reports analysis using Excel VBA, leading to about 30\% reduction in reporting time.
+        * Automated the process of producing financial disclosures using Excel VBA, resulting in efficiency in producing financial disclosures and reducing reporting time by about 60\%.
+        * Created a program for updating the billing books using Excel VBA, improving the accuracy rate to about 98\%.
+
 
   - title: Summer Actuarial Intern
     company: CAS Student Central
