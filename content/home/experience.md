@@ -43,10 +43,10 @@ experience:
     date_end: '2024-08-15'
     description: |2-
         * Conducted detailed quantitative analysis to assess the impact of using varying spot rates on financial projections.
-        * Created a tool for scenario generation for model pre-production. My tool enables the rapid and flexible generation of diverse scenarios, enhancing the model's robustness and facilitating more accurate and informed decision-making.
+        * Created a tool for scenario generation for model pre-production. My tool enables the rapid and flexible generation of diverse scenarios, enhancing the model's robustness and facilitating more               accurate and informed decision-making.
         * Conducted a Kolmogorov-Smirnov test to test if random numbers from a scenario generation are uniformly distributed. This ensures the validity and reliability of the model projections.
 
-- title: Actuarial Intern
+  - title: Actuarial Intern
     company: Milliman Life Technology Solutions(LTS)
     company_url: https://us.milliman.com/en
     company_logo: cas
@@ -59,7 +59,7 @@ experience:
         * Calculated shocks from the zero coupon rates using Python, leading to the development of the yield curve scenario generation model for the Bermuda Market Authority.
         * Conducted in-depth analysis into the liquidity and illiquidity of three different market structures, revealing interesting but important information about the performance of the various markets.
 
-- title: Actuarial Intern
+  - title: Actuarial Intern
     company: Milliman Milliman Financial Risk Management(FRM)
     company_url: https://us.milliman.com/en
     company_logo: cas
