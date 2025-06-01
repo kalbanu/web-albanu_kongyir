@@ -25,7 +25,7 @@ experience:
   - title: Statistics Instructor
     company: Oklahoma State University 
     company_url: https://cas.okstate.edu/statistics/
-    company_logo: icon
+    company_logo: cowboy
     location: Oklahoma
     date_start: '2022-12-01'
     date_end: ''
