@@ -43,7 +43,7 @@ experience:
     date_end: '2024-08-15'
     description: |2-
         * Conducted detailed quantitative analysis to assess the impact of using varying spot rates on financial projections.
-        * Created a tool for scenario generation for model pre-production. My tool allows for rapid and flexible generation of diverse scenarios, which improves the robustness of the model for accurate and           better decision-making.
+        * Created a tool for scenario generation for model pre-production. My tool enables the rapid and flexible generation of diverse scenarios, enhancing the model's robustness and facilitating more accurate and informed decision-making.
         * Conducted a Kolmogorov-Smirnov test to test if random numbers from a scenario generation are uniformly distributed. This ensures the validity and reliability of the model projections.
 
 - title: Actuarial Intern
@@ -67,7 +67,7 @@ experience:
     date_start: '2022-06-20'
     date_end: '2022-08-15'
     description: |2-
-        * Streamlined and automated attribution reports analysis using Excel VBA, leading to about 30\% reduction in reporting time.
+        * Streamlined and automated attribution reports analysis using Excel VBA, leading to about 30% reduction in reporting time.
         * Automated the process of producing financial disclosures using Excel VBA, resulting in efficiency in producing financial disclosures and reducing reporting time by about 60\%.
         * Created a program for updating the billing books using Excel VBA, improving the accuracy rate to about 98\%.
 
