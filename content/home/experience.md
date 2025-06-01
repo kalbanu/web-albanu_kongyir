@@ -37,7 +37,7 @@ experience:
   - title: Actuarial Intern
     company: Milliman Life Technology Solutions(LTS)
     company_url: https://us.milliman.com/en
-    company_logo: mtn
+    company_logo: icon
     location: Chicago
     date_start: '2024-06-20'
     date_end: '2024-08-15'
@@ -49,7 +49,7 @@ experience:
   - title: Actuarial Intern
     company: Milliman Life Technology Solutions(LTS)
     company_url: https://us.milliman.com/en
-    company_logo: mtn
+    company_logo: icon
     location: Chicago
     date_start: '2023-06-20'
     date_end: '2023-08-15'
@@ -62,7 +62,7 @@ experience:
   - title: Actuarial Intern
     company: Milliman Milliman Financial Risk Management(FRM)
     company_url: https://us.milliman.com/en
-    company_logo: mtn
+    company_logo: icon
     location: Chicago
     date_start: '2022-06-20'
     date_end: '2022-08-15'
