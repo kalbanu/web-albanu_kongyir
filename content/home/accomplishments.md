@@ -33,7 +33,7 @@ item:
   organization: Oklahoma State University
   organization_url: https://cas.okstate.edu/statistics/
   title: VIK Family Research Fellowship
-  url: ""
+  url: https://cas.okstate.edu/statistics/site_files/documents/newsletters/stat_newsletter2018.pdf
 
 - certificate_url: ''
   date_end: ""
