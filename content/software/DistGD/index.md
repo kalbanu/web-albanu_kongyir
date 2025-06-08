@@ -1,31 +1,31 @@
 ---
-title: DistGD
-summary: A Distributed Optimization Package in R using Gradient Descent.
-featured: true
-tags:
-  - R
+#title: DistGD
+#summary: A Distributed Optimization Package in R using Gradient Descent.
+#featured: true
+#tags:
+#  - R
  
-type: project
+#type: project
 
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Three-node example
-  focal_point: Smart
+#image:
+#  caption: Three-node example
+#  focal_point: Smart
   
 
-links:
-- icon: github
-  icon_pack: fab
-  name: bosafoagyare/DistGD 
-  url: https://github.com/bosafoagyare/DistGD
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: github
+#  icon_pack: fab
+#  name: bosafoagyare/DistGD 
+#  url: https://github.com/bosafoagyare/DistGD
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
