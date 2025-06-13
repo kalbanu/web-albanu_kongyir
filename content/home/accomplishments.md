@@ -76,9 +76,9 @@ item:
   date_start: "2021-04-21"
   description: ""
   organization: Youngstown State University
-  organization_url: https://www.hultprize.org/
+  organization_url: https://ysu.edu/
   title: Hult Prize Global Competition Regional Finalist
-  url: ""
+  url: https://www.hultprize.org/
   
 
 design:
