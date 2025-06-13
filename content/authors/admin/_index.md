@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=QNfekFwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/bosafoagyare
+  link: https://github.com/bkkongyir1106
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/
