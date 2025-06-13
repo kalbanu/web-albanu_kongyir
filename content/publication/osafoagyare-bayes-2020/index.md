@@ -6,8 +6,7 @@ title: "A Bayesian Hierarchical Model for US Election Data"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Connor Dayton
-- Jaucelyn Canfield
+- Emil Agbemade
 
 draft: false
 
@@ -16,11 +15,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-04-28T00:00:00Z"
+date: "2024-04-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-28T00:00:00Z"
+publishDate: "2024-04-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +32,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: We compare federal election results for each state versus the USA in every second year from 1992 to 2016 to model partisan lean of each state and its dependence on the nationwide popular vote. For each state, we model both its current partisan lean and its rate of change, as well as sensitivity of state results with respect to the nationwide popular vote, using a Bayesian Hierarchical Model. We then apply this model to predict and compare results with the actual values for the 2018 election.
+abstract: This study analyzes data from the National Highway Traffic Safety Administration's 2021 Crash Report Sampling System to identify key factors contributing to the severity of injuries in car accidents. By utilizing various machine learning algorithms and cross-validation techniques, we assessed metrics such as accuracy, sensitivity, precision, specificity, and the area under the curve (AUC) to evaluate the effectiveness of predictive models. All data preprocessing and model building were done using KNIME Analytical software. Our findings reveal significant correlations between certain variables such as airbag injection, weather conditions, intoxication, vehicle state, driver distractions, and injury severity. These insights underscore the importance of stringent safety measures, including proper restraint system usage and advanced driver-assistance technologies, in reducing the risk of severe injuries in car accidents. Recommendations for policy enhancements and preventive measures are discussed to improve overall vehicle safety.
 
 
 # Summary. An optional shortened abstract.
@@ -62,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'MCMC diagnostic plots'
+  caption: 'VIP plots'
   focal_point: Smart
   placement: 1
   preview_only: false
