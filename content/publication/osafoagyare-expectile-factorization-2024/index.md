@@ -50,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1017&context=data-science-mining
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
