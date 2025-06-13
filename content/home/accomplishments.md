@@ -76,7 +76,7 @@ item:
   date_start: "2021-04-21"
   description: ""
   organization: Youngstown State University
-  organization_url: https://ysu.edu/news/students-advance-international-competition-nobel-peace-prize-college-students
+  organization_url: https://www.hultprize.org/
   title: Hult Prize Global Competition Regional Finalist
   url: ""
   
