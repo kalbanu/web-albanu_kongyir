@@ -77,6 +77,7 @@ item:
   description: ""
   organization: Youngstown State University
   organization_url: https://ysu.edu/
+  company_logo: osu
   title: Hult Prize Global Competition Regional Finalist
   url: https://www.hultprize.org/
   
