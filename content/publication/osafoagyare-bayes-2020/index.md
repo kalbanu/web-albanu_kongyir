@@ -1,5 +1,5 @@
 ---
-title: "A Bayesian Hierarchical Model for US Election Data"
+title: "Predicting Road Accident Injury Severity for Drivers in Automobile Crashes in the United States Using Machine Learning Models and AI"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
