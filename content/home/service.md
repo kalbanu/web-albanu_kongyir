@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Service & Extra-curricular
+title: Volunteer and Community Service
 subtitle:
 
 # Date format for experience
@@ -22,40 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Member, Computing Committee
-    company: Dept. of Statistics, Michigan
-    company_url: https://lsa.umich.edu/stats
-    company_logo: um
-    location: Michigan
-    date_start: '2023-09-01'
+  - title: Mathematics and Computer Science Judge
+    company: Oklahoma State Science and Engineering Fair
+    company_url: https://ossef.zfairs.com/App?f=3a54a90b-a987-4c07-a01c-975fef608418
+    company_logo: osu
+    location: Oklahoma
+    date_start: '2025-03-05'
     date_end: ''
     description: ''
 
-  - title: Member, Recruitment & Admissions Committee
-    company: Dept. of Statistics, Michigan
-    company_url: https://lsa.umich.edu/stats
-    company_logo: um
-    location: Michigan
-    date_start: '2022-01-01'
+  - title: Science and Mathematics Judge
+    company: The Ohio Academy of Science
+    company_url: https://www.ohiosci.org/
+    company_logo: ohio
+    location: Ohio
+    date_start: '2025-03-01'
     date_end: ''
     description: ''
 
-  - title: Member, Curriculum Committee
-    company: Dept. of Statistics, Michigan
-    company_url: https://lsa.umich.edu/stats
-    company_logo: um
-    location: Michigan
-    date_start: '2023-09-01'
+  - title: Mathematics, Science, and Engineering Judge
+    company: California Science and Engineering Fair
+    company_url: https://csef.usc.edu/
+    company_logo: csef
+    location: California
+    date_start: '2024-04-15'
     date_end: ''
     description: ''
 
-  - title: Vice President
-    company: Actuarial Science Students Association, KNUST
-    company_url: https://www.casact.org/
-    company_logo: actuarial_science_students'_association,_knust
-    location: ''
-    date_start: '2015-08-01'
-    date_end: '2016-05-31'
+  - title: Science and Mathematics Judge
+    company: The Ohio Academy of Science
+    company_url: https://www.ohiosci.org/
+    company_logo: ohio
+    location: Ohio
+    date_start: '2024-03-01'
+    date_end: ''
     description: ''
 
 design:
