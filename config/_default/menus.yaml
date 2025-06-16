@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '/' 
 # '#about'
-    weight: 10
-  - name: Teaching
-    url: '/courses/sessions/'
+#   weight: 10
+#  - name: Teaching
+#    url: '/courses/sessions/'
     weight: 30
 #    identifier: courses
 #  - name: Data science
