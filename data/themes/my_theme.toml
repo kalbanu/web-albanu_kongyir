@@ -18,14 +18,20 @@ light = false
 #home_section_even = "#f7f7f7"
 
 # Primary
-#primary = "#d5b10f"
-primary = "#002547"
+primary = "#d5b10f"
 
 # Menu
-menu_primary = "#ffd738"
-menu_text = "#00284d"
-menu_text_active = "#002547"
-menu_title = "#002547"
+#menu_primary = "#ffd738"
+#menu_text = "#00284d"
+#menu_text_active = "#002547"
+#menu_title = "#002547"
+
+# Updated Menu Colors
+menu_primary = "#1f2937"       # Dark slate (modern, neutral background)
+menu_text = "#f9fafb"          # Light text (near white)
+menu_text_active = "#60a5fa"   # Soft blue (for hover/active state)
+menu_title = "#facc15"         # Vibrant yellow (accent for title)
+
 
 # Backgrounds
 home_section_odd = "#00284d"
