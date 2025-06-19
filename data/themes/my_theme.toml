@@ -5,55 +5,34 @@ name = "my_theme"
 light = false
 
 # Primary
-#primary = "#d5b10f"
+primary = "#facc15"  # Soft gold-yellow (for highlights and buttons)
 
 # Menu
-#menu_primary = "#ffd738"
-#menu_text = "#00284d"
-#menu_text_active = "#002547"
-#menu_title = "#002547"
+menu_primary = "#1f2937"       # Dark slate background for top menu
+menu_text = "#f9fafb"          # Near white text
+menu_text_active = "#60a5fa"   # Light blue for hover/active menu items
+menu_title = "#facc15"         # Accent yellow for site title/logo
 
 # Backgrounds
-#home_section_odd = "rgb(255, 255, 255)"
-#home_section_even = "#f7f7f7"
+home_section_odd = "#111827"   # Deep gray-blue for odd sections
+home_section_even = "#1f2937"  # Slightly lighter for even sections
 
-# Primary
-primary = "#d5b10f"
+dark_background = "#1f2937"
+dark_home_section_odd = "#111827"
+dark_home_section_even = "#1f2937"
 
-# Menu
-#menu_primary = "#ffd738"
-#menu_text = "#00284d"
-#menu_text_active = "#002547"
-#menu_title = "#002547"
-
-# Updated Menu Colors
-menu_primary = "#1f2937"       # Dark slate (modern, neutral background)
-menu_text = "#f9fafb"          # Light text (near white)
-menu_text_active = "#60a5fa"   # Soft blue (for hover/active state)
-menu_title = "#facc15"         # Vibrant yellow (accent for title)
-
-
-# Backgrounds
-home_section_odd = "#00284d"
-home_section_even = "#002547"
-
-dark_background = "#002547"
-dark_home_section_odd = "#00284d"
-dark_home_section_even = "#002547"
-
-
-link = "#d1b900"
-link_hover = "#b59104"
-
+# Link colors
+link = "#93c5fd"         # Soft blue (readable and pleasant)
+link_hover = "#3b82f6"   # Vivid blue on hover
 
 [dark]
-  menu_primary = "#f0cb37"
-  menu_text = "#00284d"
-  menu_text_active = "#002547"
-  menu_title = "#002547"
-  
-  home_section_odd = "#00284d"
-  home_section_even = "#002547"
+  menu_primary = "#1f2937"
+  menu_text = "#f9fafb"
+  menu_text_active = "#60a5fa"
+  menu_title = "#facc15"
 
-  link = "#d1b900"
-  link_hover = "#b59104"
+  home_section_odd = "#111827"
+  home_section_even = "#1f2937"
+
+  link = "#93c5fd"
+  link_hover = "#3b82f6"
