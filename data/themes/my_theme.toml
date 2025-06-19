@@ -18,7 +18,8 @@ light = false
 #home_section_even = "#f7f7f7"
 
 # Primary
-primary = "#d5b10f"
+#primary = "#d5b10f"
+primary = "#002547"
 
 # Menu
 menu_primary = "#ffd738"
