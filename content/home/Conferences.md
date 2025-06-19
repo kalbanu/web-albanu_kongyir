@@ -79,5 +79,4 @@ item:
   title: Actuarial Science Career Summit: Embracing Future Opportunities Now
   url: ''
   company_logo: ''
-
----
+  ---
