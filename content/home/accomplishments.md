@@ -33,7 +33,6 @@ item:
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
-  icon: user-group  # People/group icon
   title: IABA Foundation Scholar
   url: ""
 
@@ -43,7 +42,6 @@ item:
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
-  icon: user-group
   title: IABA Foundation Scholar
   url: ""
   
@@ -53,7 +51,6 @@ item:
   description: ""
   organization: Youngstown State University
   organization_url: https://ysu.edu/
-  icon: university 
   title: Outstanding Graduate Student in Statistics award
   url: ""
   
@@ -61,9 +58,8 @@ item:
   date_end: ""
   date_start: "2021-04-21"
   description: ""
-  organization: Hult Prize
+  organization: Hult Prize(hult)
   organization_url: https://www.hultprize.org/
-  icon: trophy  # Award/trophy icon
   title: Hult Prize Global Competition Regional Finalist
   url: https://www.hultprize.org/
 
