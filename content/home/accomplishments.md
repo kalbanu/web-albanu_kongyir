@@ -61,7 +61,7 @@ item:
   organization: Hult Prize(hult)
   organization_url: https://www.hultprize.org/
   title: Hult Prize Global Competition Regional Finalist
-  url: https://www.hultprize.org/
+  #url: https://www.hultprize.org/
 
 design:
   columns: '2'
