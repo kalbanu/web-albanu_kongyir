@@ -25,7 +25,7 @@ experience:
   - title: Mathematics and Computer Science Judge
     company: Oklahoma State Science and Engineering Fair
     company_url: https://ossef.zfairs.com/App?f=3a54a90b-a987-4c07-a01c-975fef608418
-    company_logo: osu
+    company_logo: ossef
     location: Oklahoma
     date_start: '2025-03-05'
     date_end: ''
