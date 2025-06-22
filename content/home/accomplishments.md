@@ -58,7 +58,7 @@ item:
   date_end: ""
   date_start: "2021-04-21"
   description: ""
-  organization: Hult Prize(hult)
+  organization: Hult Prize
   organization_url: https://www.hultprize.org/
   title: Hult Prize Global Competition Regional Finalist
   #url: https://www.hultprize.org/
