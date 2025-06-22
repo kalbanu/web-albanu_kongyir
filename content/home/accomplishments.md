@@ -68,6 +68,7 @@ item:
   description: ""
   organization: Youngstown State University
   organization_url: https://ysu.edu/
+  company_logo: ysu
   title: Outstanding Graduate Student in Statistics award
   url: ""
   
@@ -77,7 +78,7 @@ item:
   description: ""
   organization: Youngstown State University
   organization_url: https://ysu.edu/
-  company_logo: hult_prize
+  company_logo: hult
   title: Hult Prize Global Competition Regional Finalist
   url: https://www.hultprize.org/
   
