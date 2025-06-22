@@ -1,3 +1,4 @@
+---
 widget: accomplishments
 active: true
 headless: true
@@ -68,3 +69,4 @@ item:
 
 design:
   columns: '2'
+---
