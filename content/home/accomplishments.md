@@ -33,7 +33,7 @@ item:
   organization: Oklahoma State University
   organization_url: https://cas.okstate.edu/statistics/
   title: VIK Family Research Fellowship
-  company_logo: brands/osu
+  company_logo: assets/media/icons/osu
   url: https://cas.okstate.edu/statistics/site_files/documents/newsletters/stat_newsletter2018.pdf
 
 - certificate_url: ''
@@ -42,7 +42,7 @@ item:
   description: ""
   organization: Oklahoma State University
   organization_url: https://cas.okstate.edu/statistics/
-  company_logo: brands/osu
+  company_logo: assets/media/icons/osu
   title: Outstanding Graduate Teaching Assistantship Award
   url: ""
 
@@ -52,7 +52,7 @@ item:
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
-  company_logo: brands/iaba
+  company_logo: assets/media/icons/iaba
   title: IABA Foundation Scholar
   url: ""
 
@@ -62,7 +62,7 @@ item:
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
-  company_logo: brands/iaba
+  company_logo: assets/media/icons/iaba
   title: IABA Foundation Scholar
   url: ""
   
@@ -72,7 +72,7 @@ item:
   description: ""
   organization: Youngstown State University
   organization_url: https://ysu.edu/
-  company_logo: brands/ysu
+  company_logo: assets/media/icons/ysu
   title: Outstanding Graduate Student in Statistics award
   url: ""
   
@@ -82,7 +82,7 @@ item:
   description: ""
   organization: Youngstown State University
   organization_url: https://ysu.edu/
-  company_logo: brands/hult
+  company_logo: assets/media/icons/hult
   title: Hult Prize Global Competition Regional Finalist
   url: https://www.hultprize.org/
   
