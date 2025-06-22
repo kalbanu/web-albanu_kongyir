@@ -38,7 +38,7 @@ education:
     institution: Kwame Nkrumah University of Science & Tech.
     year: 2017
 
-  - course: Diplomat in General Arts
+  - course: High School's Diplomat in General Arts
     institution: St. Francis Xavier Minor Seminary.
     year: 2012
 
