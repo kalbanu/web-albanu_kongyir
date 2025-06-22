@@ -38,6 +38,10 @@ education:
     institution: Kwame Nkrumah University of Science & Tech.
     year: 2017
 
+  - course: Diplomat in General Arts
+    institution: St. Francis Xavier Minor Seminary.
+    year: 2012
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
