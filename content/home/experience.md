@@ -81,6 +81,12 @@ experience:
     date_end: '2021-08-14'
     description: |2-
         Casualty Actuarial Society P&C training in:
+        * Property and Casualty Basics
+        * Excel Data Visualization
+        * Rate Making, Reserving
+        * Predictive Modeling
+        * Soft Skills
+        * Auto Safety Features Case Competition.
         
 
 
