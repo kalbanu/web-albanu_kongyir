@@ -14,8 +14,12 @@ menu_text_active = "#60a5fa"   # Light blue for hover/active menu items
 menu_title = "#facc15"         # Accent yellow for site title/logo
 
 # Backgrounds
-home_section_odd = "#111827"   # Deep gray-blue for odd sections
-home_section_even = "#1f2937"  # Slightly lighter for even sections
+#home_section_odd = "#111827"   # Deep gray-blue for odd sections
+#home_section_even = "#1f2937"  # Slightly lighter for even sections
+
+# Backgrounds
+home_section_odd = "#0f172a"   # Dark navy
+home_section_even = "#1e293b"  # Slate blue
 
 dark_background = "#1f2937"
 dark_home_section_odd = "#111827"
