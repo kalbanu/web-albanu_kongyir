@@ -22,8 +22,8 @@ menu_title = "#facc15"         # Accent yellow for site title/logo
 #home_section_even = "#1e293b"  # Slate blue
 
 # Backgrounds
-home_section_odd = "#2c0e37"   # Deep plum purple (rich, moody)
-home_section_even = "#1e3a8a"  # Royal blue (cool and vibrant)
+home_section_odd = "#1c1c1e"   # Charcoal black (modern, clean)
+home_section_even = "#2a2a2e"  # Dark graphite gray (slight contrast)
 
 dark_background = "#1f2937"
 dark_home_section_odd = "#111827"
