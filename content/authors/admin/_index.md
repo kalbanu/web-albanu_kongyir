@@ -75,7 +75,7 @@ highlight_name: false
 user_groups:
 - Researchers
 
-
+---
 
 I am a Research Scientist at the [CSIR - Building and Road Research Institute in Kumasi, Ghana](https://www.brri.org/), with over 14 years of professional experience across civil engineering, procurement, and project management. My journey began with a High School Certificate from Lawra Senior High, followed by technical and professional degrees culminating in an MSc in Procurement Management from KNUST.
 
