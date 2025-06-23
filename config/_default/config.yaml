@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Albanu Wuleka Albanu' # Website name
+title: 'Albanu Wuleka Kongyir' # Website name
 baseurl: 'https://albanu_kongyir.netlify.app/' # Website URL
-copyright: '© B. K. Kongyir  2025' # Footer text, e.g. '© {year} Me'
+copyright: '© A. W. Kongyir  2025' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
