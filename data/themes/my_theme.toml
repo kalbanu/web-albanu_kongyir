@@ -1,46 +1,40 @@
+---
 # Theme metadata
 name = "my_theme"
 
 # Is theme light or dark?
 light = false
 
-# Primary
-primary = "#facc15"  # Soft gold-yellow (for highlights and buttons)
+# Primary (used for buttons, accents, etc.)
+primary = "#fbbf24"  # Vibrant amber
 
 # Menu
-menu_primary = "#1f2937"       # Dark slate background for top menu
-menu_text = "#f9fafb"          # Near white text
-menu_text_active = "#60a5fa"   # Light blue for hover/active menu items
-menu_title = "#facc15"         # Accent yellow for site title/logo
+menu_primary = "#0f172a"       # Rich navy blue
+menu_text = "#e5e7eb"          # Light gray for readability
+menu_text_active = "#38bdf8"   # Sky blue accent on hover/active
+menu_title = "#fbbf24"         # Amber for brand/logo
 
 # Backgrounds
-#home_section_odd = "#111827"   # Deep gray-blue for odd sections
-#home_section_even = "#1f2937"  # Slightly lighter for even sections
+home_section_odd = "#0f172a"   # Dark navy
+home_section_even = "#1e293b"  # Deep slate blue
 
-# Backgrounds
-#home_section_odd = "#0f172a"   # Dark navy
-#home_section_even = "#1e293b"  # Slate blue
-
-# Backgrounds
-home_section_odd = "#1c1c1e"   # Charcoal black (modern, clean)
-home_section_even = "#2a2a2e"  # Dark graphite gray (slight contrast)
-
-dark_background = "#1f2937"
-dark_home_section_odd = "#111827"
-dark_home_section_even = "#1f2937"
+# Alternate contrast for more modern visual break
+dark_background = "#0f172a"
+dark_home_section_odd = "#0f172a"
+dark_home_section_even = "#1e293b"
 
 # Link colors
-link = "#93c5fd"         # Soft blue (readable and pleasant)
-link_hover = "#3b82f6"   # Vivid blue on hover
+link = "#7dd3fc"         # Light cyan (eye-catching but soft)
+link_hover = "#0ea5e9"   # Bright sky blue on hover
 
 [dark]
-  menu_primary = "#1f2937"
-  menu_text = "#f9fafb"
-  menu_text_active = "#60a5fa"
-  menu_title = "#facc15"
+  menu_primary = "#0f172a"
+  menu_text = "#e5e7eb"
+  menu_text_active = "#38bdf8"
+  menu_title = "#fbbf24"
 
-  home_section_odd = "#111827"
-  home_section_even = "#1f2937"
+  home_section_odd = "#0f172a"
+  home_section_even = "#1e293b"
 
-  link = "#93c5fd"
-  link_hover = "#3b82f6"
+  link = "#7dd3fc"
+  link_hover = "#0ea5e9"
