@@ -2,7 +2,7 @@
 # An instance of the Gallery widget.
 # Documentation: https://wowchemy.com/docs/page-builder/#gallery
 
-widget: gallery
+widget: company
 headless: true
 weight: 50  # Adjust weight for position in site
 title: Project Gallery
@@ -15,7 +15,7 @@ design:
 # Add your image files to the `assets/media/` folder and reference them below.
 # Example: image: media/example.jpg
 
-gallery:
+company:
   - image: osu
     caption: "Construction of clay-brick incinerator in Opuniase, Ashanti Region"
   - image: ysu
