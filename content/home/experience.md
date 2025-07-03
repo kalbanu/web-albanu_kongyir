@@ -10,7 +10,7 @@ experience:
   - title: Assistant Research Scientist
     company: Building and Road Research Institute (BRRI)
     company_url: https://www.csir.brri.org/
-    company_logo: brri
+    #company_logo: brri
     location: Kumasi, Ghana
     date_start: '2024-01-01'
     date_end: ''
