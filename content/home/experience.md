@@ -1,3 +1,4 @@
+---
 widget: experience
 headless: true
 weight: 40
@@ -108,3 +109,5 @@ experience:
 
 design:
   columns: '2'
+
+---
