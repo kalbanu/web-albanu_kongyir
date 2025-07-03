@@ -1,40 +1,39 @@
-
 # Theme metadata
-name = "my_theme"
+name = "coolwave_theme"
 
 # Is theme light or dark?
 light = false
 
-# Primary (used for buttons, accents, etc.)
-primary = "#fbbf24"  # Vibrant amber
+# Primary
+primary = "#06b6d4"  # Vivid teal for buttons and highlights
 
 # Menu
-menu_primary = "#0f172a"       # Rich navy blue
-menu_text = "#e5e7eb"          # Light gray for readability
-menu_text_active = "#38bdf8"   # Sky blue accent on hover/active
-menu_title = "#fbbf24"         # Amber for brand/logo
+menu_primary = "#0a0f1c"       # Midnight blue
+menu_text = "#d1d5db"          # Light cool gray
+menu_text_active = "#8b5cf6"   # Soft violet on hover/active
+menu_title = "#06b6d4"         # Teal for site title/logo
 
 # Backgrounds
-home_section_odd = "#0f172a"   # Dark navy
-home_section_even = "#1e293b"  # Deep slate blue
+home_section_odd = "#0f172a"   # Navy blue
+home_section_even = "#1e293b"  # Deep slate
 
-# Alternate contrast for more modern visual break
-dark_background = "#0f172a"
+# Dark mode base backgrounds
+dark_background = "#0a0f1c"
 dark_home_section_odd = "#0f172a"
 dark_home_section_even = "#1e293b"
 
 # Link colors
-link = "#7dd3fc"         # Light cyan (eye-catching but soft)
-link_hover = "#0ea5e9"   # Bright sky blue on hover
+link = "#67e8f9"         # Bright cyan for links
+link_hover = "#22d3ee"   # Stronger cyan on hover
 
 [dark]
-  menu_primary = "#0f172a"
-  menu_text = "#e5e7eb"
-  menu_text_active = "#38bdf8"
-  menu_title = "#fbbf24"
+  menu_primary = "#0a0f1c"
+  menu_text = "#d1d5db"
+  menu_text_active = "#8b5cf6"
+  menu_title = "#06b6d4"
 
   home_section_odd = "#0f172a"
   home_section_even = "#1e293b"
 
-  link = "#7dd3fc"
-  link_hover = "#0ea5e9"
+  link = "#67e8f9"
+  link_hover = "#22d3ee"
