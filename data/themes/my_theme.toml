@@ -1,39 +1,39 @@
 # Theme metadata
-name = "coolwave_theme"
+name = "vibrant_glow"
 
 # Is theme light or dark?
 light = false
 
-# Primary
-primary = "#06b6d4"  # Vivid teal for buttons and highlights
+# Primary (used for buttons, highlights, etc.)
+primary = "#f472b6"  # Electric pink for standout CTA elements
 
 # Menu
-menu_primary = "#0a0f1c"       # Midnight blue
-menu_text = "#d1d5db"          # Light cool gray
-menu_text_active = "#8b5cf6"   # Soft violet on hover/active
-menu_title = "#06b6d4"         # Teal for site title/logo
+menu_primary = "#3b0764"       # Deep purple
+menu_text = "#fdf4ff"          # Soft lavender white
+menu_text_active = "#facc15"   # Warm golden yellow (for hover/active)
+menu_title = "#f472b6"         # Pink highlight for logo/title
 
-# Backgrounds
-home_section_odd = "#0f172a"   # Navy blue
-home_section_even = "#1e293b"  # Deep slate
+# Backgrounds (more colorful than charcoal)
+home_section_odd = "#581c87"   # Royal purple
+home_section_even = "#9333ea"  # Bright violet
 
-# Dark mode base backgrounds
-dark_background = "#0a0f1c"
-dark_home_section_odd = "#0f172a"
-dark_home_section_even = "#1e293b"
+# General dark background tone
+dark_background = "#3b0764"
+dark_home_section_odd = "#581c87"
+dark_home_section_even = "#9333ea"
 
-# Link colors
-link = "#67e8f9"         # Bright cyan for links
+# Link colors (kept as requested)
+link = "#67e8f9"         # Bright cyan
 link_hover = "#22d3ee"   # Stronger cyan on hover
 
 [dark]
-  menu_primary = "#0a0f1c"
-  menu_text = "#d1d5db"
-  menu_text_active = "#8b5cf6"
-  menu_title = "#06b6d4"
+  menu_primary = "#3b0764"
+  menu_text = "#fdf4ff"
+  menu_text_active = "#facc15"
+  menu_title = "#f472b6"
 
-  home_section_odd = "#0f172a"
-  home_section_even = "#1e293b"
+  home_section_odd = "#581c87"
+  home_section_even = "#9333ea"
 
   link = "#67e8f9"
   link_hover = "#22d3ee"
