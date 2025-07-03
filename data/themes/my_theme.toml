@@ -1,39 +1,39 @@
 # Theme metadata
-name = "vibrant_glow"
+name = "aqua_fusion"
 
 # Is theme light or dark?
 light = false
 
-# Primary (used for buttons, highlights, etc.)
-primary = "#f472b6"  # Electric pink for standout CTA elements
+# Primary (used for highlights, buttons, etc.)
+primary = "#10b981"  # Emerald green
 
 # Menu
-menu_primary = "#3b0764"       # Deep purple
-menu_text = "#fdf4ff"          # Soft lavender white
-menu_text_active = "#facc15"   # Warm golden yellow (for hover/active)
-menu_title = "#f472b6"         # Pink highlight for logo/title
+menu_primary = "#0c4a6e"       # Deep ocean blue
+menu_text = "#e0f2fe"          # Pale aqua
+menu_text_active = "#38bdf8"   # Sky blue highlight
+menu_title = "#10b981"         # Green for title/logo
 
-# Backgrounds (more colorful than charcoal)
-home_section_odd = "#581c87"   # Royal purple
-home_section_even = "#9333ea"  # Bright violet
+# Backgrounds
+home_section_odd = "#0f172a"   # Navy blue
+home_section_even = "#164e63" # Deep teal
 
-# General dark background tone
-dark_background = "#3b0764"
-dark_home_section_odd = "#581c87"
-dark_home_section_even = "#9333ea"
+# General dark mode base colors
+dark_background = "#0c4a6e"
+dark_home_section_odd = "#0f172a"
+dark_home_section_even = "#164e63"
 
-# Link colors (kept as requested)
+# Link colors (unchanged as requested)
 link = "#67e8f9"         # Bright cyan
 link_hover = "#22d3ee"   # Stronger cyan on hover
 
 [dark]
-  menu_primary = "#3b0764"
-  menu_text = "#fdf4ff"
-  menu_text_active = "#facc15"
-  menu_title = "#f472b6"
+  menu_primary = "#0c4a6e"
+  menu_text = "#e0f2fe"
+  menu_text_active = "#38bdf8"
+  menu_title = "#10b981"
 
-  home_section_odd = "#581c87"
-  home_section_even = "#9333ea"
+  home_section_odd = "#0f172a"
+  home_section_even = "#164e63"
 
   link = "#67e8f9"
   link_hover = "#22d3ee"
