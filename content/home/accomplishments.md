@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-active: true
+active: false
 headless: true
 weight: 50
 title: 'Honors & Awards'
